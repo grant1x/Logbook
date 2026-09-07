@@ -12,7 +12,7 @@ export const Header = () => {
                 {/* logo */}
                 <Link href='/'>
                     <h1 className='text-4xl font-semibold'>
-                        Gr/ant<span className='text-accent'>.</span>
+                        GRANT<span className='text-accent'>.</span>
                     </h1>
                 </Link>
 
