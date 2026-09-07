@@ -47,7 +47,8 @@ const Home = ({ children = "Grant" }) => {
 							>
 								<a
 									href="/Logbook/public/Grant Agulue Resume.pdf"
-									download={"Grant_Agulue_Resume	.pdf"}
+									download={"Grant_Agulue_Resume.pdf"}
+									className="flex"
 								>
 									<span>Download CV</span>
 									<FiDownload className="text-xl" />
